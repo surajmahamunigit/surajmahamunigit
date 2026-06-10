@@ -1,44 +1,17 @@
-About Me
+# Suraj Mahamuni
 
-I am an aspiring Python developer currently focused on building real-world projects and becoming job-ready.
+Backend Software Engineer based in Los Angeles. Four years of Python and FastAPI in production.
 
-* 🌱 Learning: Python, Git, GitHub
-* 🔨 Currently building: Beginner Python projects
-* 🎯 Goal: Land a Python Developer role
-* 📍 Open to entry-level opportunities
+### Currently
+Open to Backend or Full-Stack roles at Series A–C product startups — remote or US-based.
 
----
+### Recent work
+- **[PawSitter](https://github.com/surajmahamunigit/dog-sitter-marketplace)** — AI-powered two-sided dog sitter marketplace with Claude matching, pgvector RAG, and Stripe Connect payouts
+- **[E-Commerce API](https://github.com/surajmahamunigit/e-commerce-api)** — Production-grade REST backend with Argon2 auth, deterministic test suite, and AWS deployment
 
-🛠️ Skills
+### Stack
+Python · FastAPI · PostgreSQL · pgvector · AWS · Docker · Anthropic Claude · OpenAI
 
-* Python (Beginner)
-* Git & GitHub
-* Problem Solving
-
----
-
-📌 What I'm Working On
-
-* Building a Python To-Do CLI App
-* Improving code structure and readability
-* Learning version control (Git workflow)
-
----
-
-📂 Projects
-
-🚧 Projects in progress — will be added here soon
-
----
-
-📫 Contact
-
-* GitHub: https://github.com/surajmahamunigit
-
----
-
-⚡ What You Can Expect From Me
-
-* Consistent learning and improvement
-* Clean and readable code
-* Strong willingness to grow as a developer
+### Reach me
+- [LinkedIn](https://www.linkedin.com/in/surajmahamuni)
+- suraj.maha.software@gmail.com
